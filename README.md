@@ -4,7 +4,8 @@
  
 2. Далее переходим в папку scripts и запускаем нужный нам файл: 
  
-install-all-users.vbs — для Windows 
+install-all-users.vbs — для Windows,  
+
 install.sh — для MacOS и Linux 
  
 Выскакивает первое окно, Нажимаем Ок. 
